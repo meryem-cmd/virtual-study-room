@@ -2,7 +2,7 @@
 
 A real-time, collaborative study platform where friends can create a room, study together with a synced Pomodoro timer, chat live, make 1:1 video calls with screen share, and get help from an AI study assistant that's aware of what the room is actually studying.
 
-**🔗 Live demo:** [virtual-study-room-theta.vercel.app](https://virtual-study-room-theta.vercel.app)
+**🔗 Live demo:** [virtual-study-room-theta.vercel.app](https://virtual-study-room-theta.vercel.app/register)
 
 > Built as a full-stack portfolio project to demonstrate real-time systems, authentication, peer-to-peer media, and AI integration — not just CRUD.
 
