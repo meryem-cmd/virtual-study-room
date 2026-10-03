@@ -22,18 +22,9 @@ A real-time, collaborative study platform where friends can create a room, study
 
 
 
-<img width="389" height="416" alt="image" src="https://github.com/user-attachments/assets/a0da3b26-9486-4223-857b-fda622b0e490" />
-
-
-
-
-
-
-<img width="359" height="380" alt="image" src="https://github.com/user-attachments/assets/95a781de-54b5-4315-b4b4-e31950ef4d85" />
-
-
-
-<img width="484" height="396" alt="image" src="https://github.com/user-attachments/assets/6e590454-0f9d-4b1d-b7ed-37fcc6d35c1a" />
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/2c556d9c-4a82-40f5-accd-a3ef328c10b5" />
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/5c4cd83a-63e7-4e86-9a7b-34dc6606397e" />
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/9bcb0bf1-bba1-4281-859a-527cf42e5d50" />
 
 
 
