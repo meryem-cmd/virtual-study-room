@@ -20,6 +20,16 @@ A real-time, collaborative study platform where friends can create a room, study
 
 ---
 
+
+
+<img width="959" height="432" alt="image" src="https://github.com/user-attachments/assets/8a3680eb-1a02-4277-84fe-30fde69849fa" />
+<img width="406" height="422" alt="image" src="https://github.com/user-attachments/assets/2e8cc206-57ab-4b99-a7cc-e441d769b50b" />
+<img width="953" height="430" alt="image" src="https://github.com/user-attachments/assets/a9908f39-6d3a-4fdd-9039-9e4e35ed13f8" />
+<img width="626" height="314" alt="image" src="https://github.com/user-attachments/assets/625781e0-11ea-4fd6-a201-08be7597738a" />
+<img width="616" height="313" alt="image" src="https://github.com/user-attachments/assets/7ee4ccc7-7c84-4d41-8e07-d6951ddeb422" />
+
+
+
 ## 🖥️ Tech Stack
 
 | Layer | Technology |
